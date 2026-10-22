@@ -1,0 +1,21 @@
+{
+  "name": "incognito-frontend",
+  "version": "1.0.0",
+  "description": "Incognito frontend: static site for the Incognito proxy",
+  "scripts": {
+    "build": "node build.js",
+    "start": "node build.js && node serve.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/titaniumnetwork-dev/Incognito.git"
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "author": "Titanium Network",
+  "license": "ISC",
+  "engines": {
+    "node": ">=16.7"
+  }
+}
