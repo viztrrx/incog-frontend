@@ -1,6 +1,6 @@
 # Incognito Frontend
 
-The UI half of [Incognito](https://github.com/titaniumnetwork-dev/Incognito-old), split out from the original monorepo. It is a static site: pages, styles, scripts and the games library. Proxying, the search gateway and suggestions come from the **incognito-backend** repo.
+The UI half of [Incognito](https://github.com/titaniumnetwork-dev/Incognito-old), split out from the original monorepo. It is a static site: pages, styles, scripts and the games library. Proxying, the search gateway and suggestions come from [incog-backend](https://github.com/viztrrx/incog-backend).
 
 ## Setup
 
